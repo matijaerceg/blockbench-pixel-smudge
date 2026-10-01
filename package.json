@@ -1,0 +1,13 @@
+{
+  "name": "blockbench-pixel-smudge",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Pixel Smudge brush plugin for Blockbench",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smudge.cjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.0"
+  }
+}
